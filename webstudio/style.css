@@ -1,0 +1,34 @@
+.imgf {
+  width: 270px;
+  height: 260px;
+}
+body {
+  font-family: ROBOTO;
+}
+.header {
+  font-size: 14px;
+  line-height: 16.41px;
+  font-weight: 500;
+}
+.container {
+  width: 100%;
+  padding: 300px 0;
+  background-color: #2F303A;
+  margin: 0 auto;
+  text-align: center;
+  
+
+}
+._container {
+    width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.__container {
+    width: 100%;
+  padding: 0 15px;
+  background-color: #2F303A;
+  margin: 0 auto;
+}
+
+
